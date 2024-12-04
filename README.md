@@ -7,6 +7,7 @@ Beberapa source belajar yang saya gunakan (to be updated) :
 - Kaggle - Pandas : https://www.kaggle.com/learn/pandas
 - Kaggle - Intro to Machine Learning : https://www.kaggle.com/learn/intro-to-machine-learning
 - Youtube - Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika : https://www.youtube.com/watch?v=WH1SduDRL_Y&t=5449s
+- Pyhton for Data Analysis (3rd Edition), Web Book : https://wesmckinney.com/book/preliminaries
 
 Source belajar matematika yang mendukung untuk knowledge ML (to be updated) :
 - Statistics & Probability : https://www.khanacademy.org/math/statistics-probability
