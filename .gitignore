@@ -6,3 +6,8 @@ data_science/marathon-data.csv
 PG Local.session.sql
 imdb-web-scraping.ipynb
 referensi buku/Hands On Machine Learning with Scikit Learn and TensorFlow.pdf
+machine_learning_project/titanic/train.csv
+machine_learning_project/titanic/test.csv
+machine_learning_project/titanic/submission.csv
+machine_learning_project/titanic/gender_submission.csv
+.gitignore
